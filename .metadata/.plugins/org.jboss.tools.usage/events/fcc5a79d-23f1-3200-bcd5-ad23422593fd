@@ -1,0 +1,11 @@
+#Tue Feb 18 16:32:02 GMT-03:00 2025
+a=finishWizard
+c=0
+cl=org.jboss.tools.runtime.ui.internal.wizard.DownloadRuntimesWizard
+cmp=usage
+ct=jbt
+d=1739907122509
+l=Wizard class name
+s=0
+v=2.3.100
+vl=How many times the 'Finish' button pressed during the day

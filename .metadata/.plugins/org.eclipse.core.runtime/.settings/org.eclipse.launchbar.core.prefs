@@ -1,0 +1,17 @@
+LaunchTargetManager/configs/ServerTestWildfly=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/WildFly\ 24+=org.eclipse.launchbar.core.launchTargetType.wst.server\:WildFly 24+
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.wst.server,WildFly\ 24+/name=WildFly 24+
+activeLaunchTarget=null\:---
+configDescList=org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:ProjectTest
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ServerTestWildfly/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ServerTestWildfly/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:WildFly\ 24+/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:WildFly\ 24+/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:EjbTestWikdfly/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:EjbTestWikdfly/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:WildFly 24+
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:ProjectTest/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:ProjectTest/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:WildFly 24+
